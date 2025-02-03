@@ -1,6 +1,7 @@
 ## Hi there
-#I am a student, interestet in software development.
-#Curently at school in germany and learning as much as possible.
+I am a student, interestet in software development.
+
+Curently at school in germany and learning as much as possible.
 
 <!--
 **IAmWatching-You/IAmWatching-You** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
